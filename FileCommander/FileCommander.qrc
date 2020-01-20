@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/FileCommander">
+        <file>Resources/copyLeft.png</file>
+        <file>Resources/copyRight.png</file>
+        <file>Resources/moveLeft.png</file>
+        <file>Resources/moveRight.png</file>
+    </qresource>
+</RCC>
